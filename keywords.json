@@ -1,0 +1,17 @@
+{
+  "open": {
+    "google": "chrome.exe",
+    "calculate": "calc.exe",
+    "notepad": "notepad.exe",
+    "word": "winword.exe",
+    "excel": "excel.exe",
+    "powerpoint": "powerpnt.exe",
+    "outlook": "outlook.exe",
+    "teams": "teams.exe",
+    "visual studio": "devenv.exe",
+    "photoshop": "photoshop.exe",
+    "illustrator": "illustrator.exe",
+    "vlc": "vlc.exe",
+    "spotify": "spotify.exe"
+  }
+}
